@@ -30,6 +30,7 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		add_core_of = VAL
 	}
 	
 	provinces={
@@ -49,6 +50,7 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		add_core_of = VAL
 	}
 	
 	provinces={
@@ -68,6 +70,7 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		add_core_of = VAL
 	}
 	
 	provinces={
@@ -87,6 +90,7 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		add_core_of = VAL
 	}
 	
 	provinces={
@@ -133,7 +137,6 @@ state={
 		549 563 1346 3558 3629 6529 9503 9559 11502 11531 11547 
 	}
 }
-
 
 state={
 	id=8
