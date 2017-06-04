@@ -37,13 +37,13 @@ GWR = {
 }
 
 EES = {
-	color = rgb { 184 108 141 }
-	color_ui = rgb { 204 128 161 }
+	color = rgb { 184 180 141 }
+	color_ui = rgb { 204 200 161 }
 }
 
 UIW = {
 	color = rgb { 133 56 90 }
-	color_ui = rgb { 153 86 110 }
+	color_ui = rgb { 153 76 110 }
 }
 
 FLE = {
