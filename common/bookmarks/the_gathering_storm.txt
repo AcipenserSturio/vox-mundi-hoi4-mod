@@ -1,0 +1,55 @@
+bookmarks = {
+	bookmark = {
+		name = "VOX_MUNDI_NAME"
+		desc = "VOX_MUNDI_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "MRU"
+		default = yes
+		
+		"VAL"={
+			history = "VAL_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas = {}
+		}
+		"CAS"={
+			history = "CAS_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas = {}
+		}
+		"GWR"={
+			history = "GWR_VOX_MUNDI_DESC"
+			ideology = communism
+			ideas = {}
+		}
+		"MRU"={
+			history = "MRU_VOX_MUNDI_DESC"
+			ideology = communism
+			ideas = {}
+		}
+		"FLE"={
+			history = "FLE_VOX_MUNDI_DESC"
+			ideology = fascism
+			ideas={}			
+		}
+		"KRE"={
+			history = "KRE_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas={}			
+		}
+		"EES"={
+			history = "EES_VOX_MUNDI_DESC"
+			ideology = fascism
+			ideas = {}
+		}
+
+		"---"={
+			history = "OTHER_VOX_MUNDI_DESC"
+		}
+
+		effect = {
+			randomize_weather = 41325 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

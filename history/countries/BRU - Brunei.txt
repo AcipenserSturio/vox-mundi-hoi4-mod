@@ -1,6 +1,6 @@
-﻿capital = 25
+﻿capital = 487
 oob = "empty"
-set_research_slots = 3
+set_research_slots = 2
 set_convoys = 500
 set_national_unity = 0.75
 
@@ -25,7 +25,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1933.4.26"
 	election_frequency = 48
 	elections_allowed = yes
@@ -34,28 +34,28 @@ set_politics = {
 create_country_leader = {
 	name = "Communist Leader"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
 	ideology = stalinism
 	traits = {}
 }
 create_country_leader = {
 	name = "Democratic Leader"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
 	ideology = liberalism
 	traits = {}
 }
 create_country_leader = {
 	name = "Non-Aligned Leader"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
 	ideology = despotism
 	traits = {}
 }
 create_country_leader = {
 	name = "Fascist Leader"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
 	ideology = fascism_ideology
 	traits = {}
 }
