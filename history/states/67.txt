@@ -1,0 +1,20 @@
+
+state={
+	id=67
+	name="STATE_67"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = SUD
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = SUD
+	}
+	
+	provinces={
+		671 673 688 3675 9633 11618 11634
+	}
+}

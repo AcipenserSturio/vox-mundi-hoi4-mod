@@ -1,0 +1,20 @@
+
+state={
+	id=480
+	name="STATE_480"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		13025
+	}
+}

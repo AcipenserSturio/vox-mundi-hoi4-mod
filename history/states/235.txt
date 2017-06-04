@@ -1,0 +1,20 @@
+
+state={
+	id=235
+	name="STATE_235"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = LTH
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = LTH
+	}
+	
+	provinces={
+		2332 3050 3060 3061 6082 6186 9100 9105 9150 9206 11056 11162
+	}
+}

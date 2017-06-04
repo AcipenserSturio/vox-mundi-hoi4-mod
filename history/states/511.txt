@@ -1,0 +1,20 @@
+
+state={
+	id=511
+	name="STATE_511"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = NGR
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = NGR
+	}
+	
+	provinces={
+		4982 8107 12716
+	}
+}

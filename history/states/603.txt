@@ -1,0 +1,20 @@
+
+state={
+	id=603
+	name="STATE_603"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = CLN
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CLN
+	}
+	
+	provinces={
+		1445 1582 4402 4452 4601 4988 6696 6974 7547 9727 9775 10586 10727 11890 12568 12637 12709
+	}
+}

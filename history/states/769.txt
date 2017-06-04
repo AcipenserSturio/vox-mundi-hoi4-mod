@@ -1,0 +1,20 @@
+
+state={
+	id=769
+	name="STATE_769"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = PAP
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = PAP
+	}
+	
+	provinces={
+		1357 1535 1548 4511 7516 10384 12360 12373
+	}
+}

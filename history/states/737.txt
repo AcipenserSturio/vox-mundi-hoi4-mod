@@ -1,0 +1,20 @@
+
+state={
+	id=737
+	name="STATE_737"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = TKH
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = TKH
+	}
+	
+	provinces={
+		1051 1067 1133 1136 4054 4142 7072 7113 9985 11960 12031
+	}
+}

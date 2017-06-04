@@ -1,0 +1,20 @@
+
+state={
+	id=725
+	name="STATE_725"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = ZHE
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = ZHE
+	}
+	
+	provinces={
+		7273 7316 8005 12884
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=209
+	name="STATE_209"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = CRN
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CRN
+	}
+	
+	provinces={
+		540 3463 6526 9484 9562 11406
+	}
+}

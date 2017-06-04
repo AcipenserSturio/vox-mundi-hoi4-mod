@@ -1,0 +1,20 @@
+
+state={
+	id=789
+	name="STATE_789"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = KRE
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = KRE
+	}
+	
+	provinces={
+		4783 5031 7511 7727 7803 8055 8102 8127 10629 10770 10899 12750 12880
+	}
+}

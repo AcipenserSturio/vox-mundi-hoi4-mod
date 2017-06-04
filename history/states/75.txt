@@ -1,0 +1,20 @@
+
+state={
+	id=75
+	name="STATE_75"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = HAN
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = HAN
+	}
+	
+	provinces={
+		3326
+	}
+}

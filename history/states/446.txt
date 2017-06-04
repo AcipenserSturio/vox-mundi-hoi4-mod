@@ -1,0 +1,20 @@
+
+state={
+	id=446
+	name="STATE_446"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = SUI
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = SUI
+	}
+	
+	provinces={
+		2223 8237 10979 11013 12915 12936 12992 13132
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=19
+	name="STATE_19"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = AKO
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = AKO
+	}
+	
+	provinces={
+		743 3740 6621 6759 6762 6777 9710 9717 9737 11697
+	}
+}

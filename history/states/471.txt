@@ -1,0 +1,20 @@
+
+state={
+	id=471
+	name="STATE_471"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = SEV
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = SEV
+	}
+	
+	provinces={
+		13038
+	}
+}

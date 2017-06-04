@@ -1,0 +1,20 @@
+
+state={
+	id=37
+	name="STATE_37"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		724 877 3892 6921 6941 9817 11673
+	}
+}

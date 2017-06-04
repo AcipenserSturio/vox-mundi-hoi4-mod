@@ -1,0 +1,20 @@
+
+state={
+	id=463
+	name="STATE_463"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = MKS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = MKS
+	}
+	
+	provinces={
+		1237 4247 7390 12120
+	}
+}

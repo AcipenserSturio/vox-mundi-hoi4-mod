@@ -1,0 +1,20 @@
+
+state={
+	id=300
+	name="STATE_300"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = GWR
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = GWR
+	}
+	
+	provinces={
+		357 3268 3347 3370 6135 6231 6295 6358 6362 6392 9257 9267 11239 11252 11295
+	}
+}

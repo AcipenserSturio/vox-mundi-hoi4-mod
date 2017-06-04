@@ -1,0 +1,20 @@
+
+state={
+	id=714
+	name="STATE_714"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = MAM
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = MAM
+	}
+	
+	provinces={
+		2843 4162 7078 7124 7179 9935 9991 10035 11911 11929 11968 12010
+	}
+}

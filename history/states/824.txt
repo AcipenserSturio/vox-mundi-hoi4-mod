@@ -1,0 +1,20 @@
+
+state={
+	id=824
+	name="STATE_824"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = EES
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = EES
+	}
+	
+	provinces={
+		2099 7997 10796 10834 10865 12890 
+	}
+}

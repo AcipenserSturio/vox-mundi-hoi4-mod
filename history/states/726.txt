@@ -1,0 +1,20 @@
+
+state={
+	id=726
+	name="STATE_726"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = CHG
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CHG
+	}
+	
+	provinces={
+		1129 1898 2076 3989 5002 5157 7106 10021 12708
+	}
+}

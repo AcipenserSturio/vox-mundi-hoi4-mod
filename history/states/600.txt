@@ -1,0 +1,20 @@
+
+state={
+	id=600
+	name="STATE_600"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = TGR
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = TGR
+	}
+	
+	provinces={
+		866 1556 1572 1584 1843 1913 7388 9834 10352 10380 10407 10489 12353 12381 12439 12752
+	}
+}

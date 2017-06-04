@@ -1,0 +1,20 @@
+
+state={
+	id=212
+	name="STATE_212"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = ANG
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = ANG
+	}
+	
+	provinces={
+		507 3501 6103 9458 11333 11374 11446 13070
+	}
+}

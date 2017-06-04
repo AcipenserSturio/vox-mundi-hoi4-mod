@@ -1,0 +1,20 @@
+
+state={
+	id=185
+	name="STATE_185"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = LIV
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = LIV
+	}
+	
+	provinces={
+		9340 9240 9317 9501
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=52
+	name="STATE_52"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = FLE
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = FLE
+	}
+	
+	provinces={
+		770 771 3772 6780 6788 9738 9741 11721 11723 11726 11730 11891
+	}
+}

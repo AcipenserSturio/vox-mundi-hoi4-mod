@@ -1,0 +1,20 @@
+
+state={
+	id=59
+	name="STATE_59"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = PIS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = PIS
+	}
+	
+	provinces={
+		925 967 3885 6862 6926 9794 9904 11751 11790 11846 11861
+	}
+}

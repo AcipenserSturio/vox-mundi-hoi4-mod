@@ -1,0 +1,20 @@
+
+state={
+	id=753
+	name="STATE_753"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = SHN
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = SHN
+	}
+	
+	provinces={
+		1082 4425 10920 12464
+	}
+}

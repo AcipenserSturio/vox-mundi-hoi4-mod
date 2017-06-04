@@ -1,0 +1,20 @@
+
+state={
+	id=350
+	name="STATE_350"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = AFR
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = AFR
+	}
+	
+	provinces={
+		1174 4051 4117 4176 10037 11940 12009
+	}
+}

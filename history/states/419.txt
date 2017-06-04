@@ -1,0 +1,20 @@
+
+state={
+	id=419
+	name="STATE_419"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = GBG
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = GBG
+	}
+	
+	provinces={
+		806 886 3889 3921 6813 6956 9893 11746 11810
+	}
+}

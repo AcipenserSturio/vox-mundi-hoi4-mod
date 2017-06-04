@@ -1,0 +1,20 @@
+
+state={
+	id=96
+	name="STATE_96"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = PRT
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = PRT
+	}
+	
+	provinces={
+		479 506 6464 6485 6512 9457 9511 11467
+	}
+}

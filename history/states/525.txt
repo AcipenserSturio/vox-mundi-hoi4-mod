@@ -1,0 +1,20 @@
+
+state={
+	id=525
+	name="STATE_525"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = RIO
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = RIO
+	}
+	
+	provinces={
+		2035 8172 10956
+	}
+}

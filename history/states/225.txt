@@ -1,0 +1,20 @@
+
+state={
+	id=225
+	name="STATE_225"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = JMT
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = JMT
+	}
+	
+	provinces={
+		65 102 122 188 199 3059 3090 3093 3096 3114 3180 3188 6145 6204 6216 9047 9127 9170 9216 11100
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=170
+	name="STATE_170"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = MRU
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = MRU
+	}
+	
+	provinces={
+		679 699 730 3730 6735 9656 9706 11644 11646 11659
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=200
+	name="STATE_200"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = UIW
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = UIW
+	}
+	
+	provinces={
+		276 385 3217 3242 3329 3379 11257 
+	}
+}

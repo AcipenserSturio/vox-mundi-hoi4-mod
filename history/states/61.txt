@@ -1,0 +1,20 @@
+
+state={
+	id=61
+	name="STATE_61"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = MES
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = MES
+	}
+	
+	provinces={
+		1009 1156 3857 4014 4159 7059 7147 10074 12003 12047
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=83
+	name="STATE_83"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = SIL
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = SIL
+	}
+	
+	provinces={
+		478 9496 11415
+	}
+}

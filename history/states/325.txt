@@ -1,0 +1,20 @@
+
+state={
+	id=325
+	name="STATE_325"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = DMT
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = DMT
+	}
+	
+	provinces={
+		2176 2196 2281 5180 8144 8205 12911
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=550
+	name="STATE_550"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = VRI
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = VRI
+	}
+	
+	provinces={
+		177 379 7123 13009
+	}
+}

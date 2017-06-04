@@ -1,0 +1,20 @@
+
+state={
+	id=767
+	name="STATE_767"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = PAP
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = PAP
+	}
+	
+	provinces={
+		1244 4433 7225 7292 10293 12224
+	}
+}

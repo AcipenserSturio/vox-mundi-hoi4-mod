@@ -1,0 +1,20 @@
+
+state={
+	id=685
+	name="STATE_685"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = SIS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = SIS
+	}
+	
+	provinces={
+		4410 4953 5040 5096 7938 8120 10332 10801
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=1
+	name="STATE_1"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = FLA
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = FLA
+	}
+	
+	provinces={
+		6598 11419
+	}
+}

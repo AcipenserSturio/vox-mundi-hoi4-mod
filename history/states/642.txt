@@ -1,0 +1,20 @@
+
+state={
+	id=642
+	name="STATE_642"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = VIN
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = VIN
+	}
+	
+	provinces={
+		373 7758 7788 12505 12680 12698
+	}
+}

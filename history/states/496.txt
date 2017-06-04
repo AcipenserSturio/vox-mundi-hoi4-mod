@@ -1,0 +1,20 @@
+
+state={
+	id=496
+	name="STATE_496"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = CAJ
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAJ
+	}
+	
+	provinces={
+		2156 2162 5190 8199 12969 12983 12997
+	}
+}

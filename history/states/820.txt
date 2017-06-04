@@ -1,0 +1,20 @@
+
+state={
+	id=820
+	name="STATE_820"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = EES
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = EES
+	}
+	
+	provinces={
+		1961 1991 2010 2014 2093 2098 4900 4994 5011 5033 5094 7926 8029 8068 8121 10755 10802 10918 12784 12801 12807
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=320
+	name="STATE_320"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = KBO
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = KBO
+	}
+	
+	provinces={
+		4997 5028 8028 10758 10780 10805
+	}
+}

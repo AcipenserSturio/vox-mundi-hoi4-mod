@@ -1,0 +1,20 @@
+
+state={
+	id=570
+	name="STATE_570"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = TEJ
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = TEJ
+	}
+	
+	provinces={
+		2051 5052 8003 10172 10853 12804 13089
+	}
+}

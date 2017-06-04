@@ -1,0 +1,20 @@
+
+state={
+	id=736
+	name="STATE_736"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = TKH
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = TKH
+	}
+	
+	provinces={
+		993 1097 1113 1182 4000 4100 4184 4188 7016 9998 11908
+	}
+}

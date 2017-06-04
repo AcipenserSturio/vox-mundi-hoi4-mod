@@ -1,0 +1,20 @@
+
+state={
+	id=756
+	name="STATE_756"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = SUK
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = SUK
+	}
+	
+	provinces={
+		1990 4496 7492 7531 8045 10330 10356 10456
+	}
+}

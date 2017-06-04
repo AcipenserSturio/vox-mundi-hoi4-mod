@@ -1,0 +1,20 @@
+
+state={
+	id=665
+	name="STATE_665"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = HMD
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = HMD
+	}
+	
+	provinces={
+		1479 1576 1614 1721 7541 10395 10435 12233 12454
+	}
+}

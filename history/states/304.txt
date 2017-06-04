@@ -1,0 +1,20 @@
+
+state={
+	id=304
+	name="STATE_304"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = OSS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = OSS
+	}
+	
+	provinces={
+		742 745 759 3597 3726 3746 3774 6463 6758 6760 6791 9594 9720
+	}
+}

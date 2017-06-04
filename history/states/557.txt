@@ -1,0 +1,20 @@
+
+state={
+	id=557
+	name="STATE_557"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = SEV
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = SEV
+	}
+	
+	provinces={
+		1513 4647 7245 10254 10440
+	}
+}

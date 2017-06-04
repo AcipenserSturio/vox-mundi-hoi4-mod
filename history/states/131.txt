@@ -1,0 +1,20 @@
+
+state={
+	id=131
+	name="STATE_131"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = DAC
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = DAC
+	}
+	
+	provinces={
+		660 674 818 3636 3639 3663 6658 6677 6695 9617 9651 11603 11619 11636 
+	}
+}

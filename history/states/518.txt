@@ -1,0 +1,20 @@
+
+state={
+	id=518
+	name="STATE_518"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = DBU
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = DBU
+	}
+	
+	provinces={
+		1979 2198 5216 5232 8185 8254 10960 12965 
+	}
+}

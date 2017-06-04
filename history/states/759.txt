@@ -1,0 +1,20 @@
+
+state={
+	id=759
+	name="STATE_759"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = BUR
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = BUR
+	}
+	
+	provinces={
+		1330 1417 4293 4336 7254 7382 10154 10223 10267 12127 12197 12267
+	}
+}

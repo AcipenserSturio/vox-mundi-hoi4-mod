@@ -1,0 +1,20 @@
+
+state={
+	id=537
+	name="STATE_537"
+	manpower = 200000
+	
+	state_category = city
+	
+	history={
+		owner = PMP
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = PMP
+	}
+	
+	provinces={
+		1585 1598 4575 4589 4604
+	}
+}

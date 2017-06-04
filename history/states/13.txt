@@ -1,0 +1,20 @@
+
+state={
+	id=13
+	name="STATE_13"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = VAL
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = VAL
+	}
+	
+	provinces={
+		503 655 3659 9478 9631 9867 11465 11600 11613 11616
+	}
+}
