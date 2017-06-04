@@ -90,5 +90,4 @@ LBA = "countries/Vanilla/Libya.txt"
 WGR = "countries/Vanilla/West Germany.txt" #Problems with dual leaders. Need more work
 DDR = "countries/Vanilla/East Germany.txt" #Problems with dual leaders. Need more work
 PAL = "countries/Vanilla/Palestine.txt"
-
-
+ISR = "countries/Vanilla/Israel.txt"

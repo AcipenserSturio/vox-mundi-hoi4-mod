@@ -1,0 +1,9 @@
+
+supply_area={
+	id=26
+	name="SUPPLYAREA_26"
+	value=24
+	states={
+		60 48 
+	}
+}

@@ -1,0 +1,9 @@
+
+supply_area={
+	id=204
+	name="SUPPLYAREA_204"
+	value=24
+	states={
+		302 301 893 305 
+	}
+}
