@@ -8,6 +8,12 @@ state={
 
 	history={
 		owner = FLE
+		victory_points = {
+			3594 3 
+		}
+		victory_points = {
+			3652 5 
+		}
 		buildings = {
 			infrastructure = 9
 		}

@@ -11,6 +11,9 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			3734 5
+		}
 		add_core_of = GBG
 	}
 	

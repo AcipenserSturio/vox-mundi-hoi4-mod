@@ -8,10 +8,14 @@ state={
 	
 	history={
 		owner = GWR
+		victory_points = {
+			6262 3 
+		}
 		buildings = {
 			infrastructure = 9
 		}
 		add_core_of = GWR
+		#add_core_of = MGY
 	}
 	
 	provinces={

@@ -8,6 +8,12 @@ state={
 
 	history={
 		owner = CAS
+		victory_points = {
+			875 1 
+		}
+		victory_points = {
+			9979 1 
+		}
 		buildings = {
 			infrastructure = 9
 		}

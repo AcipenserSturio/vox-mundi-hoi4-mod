@@ -11,6 +11,12 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			12364 10 
+		}
+		victory_points = {
+			7621 1 
+		}
 		add_core_of = PMP
 	}
 	

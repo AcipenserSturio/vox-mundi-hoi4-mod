@@ -13,22 +13,22 @@ set_politics = {
 		}
 
 		fascism = {
-			popularity = 25
+			popularity = 65
 		}
 		
 		communism = {
-			popularity = 25
+			popularity = 10
 		}
 		
 		neutrality = {
-			popularity = 25
+			popularity = 0
 		}
 	}
 	
 	ruling_party = fascism
 	last_election = "1933.4.26"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 create_country_leader = {

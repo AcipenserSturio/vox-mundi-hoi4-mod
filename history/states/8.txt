@@ -8,6 +8,15 @@ state={
 
 	history={
 		owner = VAL
+		victory_points = {
+			9642 5 
+		}
+		victory_points = {
+			11516 5 
+		}
+		victory_points = { 
+			678 5
+		}
 		buildings = {
 			infrastructure = 9
 		}

@@ -9,15 +9,15 @@ set_technology = {}
 set_politics = {
 	parties = {
 		democratic = { 
-			popularity = 25
+			popularity = 65
 		}
 
 		fascism = {
-			popularity = 25
+			popularity = 10
 		}
 		
 		communism = {
-			popularity = 25
+			popularity = 0
 		}
 		
 		neutrality = {

@@ -9,23 +9,23 @@ set_technology = {}
 set_politics = {
 	parties = {
 		democratic = { 
-			popularity = 25
+			popularity = 60
 		}
 
 		fascism = {
-			popularity = 25
+			popularity = 10
 		}
 		
 		communism = {
-			popularity = 25
+			popularity = 30
 		}
 		
 		neutrality = {
-			popularity = 25
+			popularity = 0
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = democratic
 	last_election = "1933.4.26"
 	election_frequency = 48
 	elections_allowed = yes

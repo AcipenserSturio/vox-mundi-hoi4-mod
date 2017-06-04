@@ -12,6 +12,7 @@ state={
 			infrastructure = 9
 		}
 		add_core_of = GWR
+		#add_core_of = EES
 	}
 	
 	provinces={

@@ -11,7 +11,11 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			11349 1
+		}
 		add_core_of = GWR
+		#add_core_of = TVE
 	}
 	
 	provinces={

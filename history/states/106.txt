@@ -8,10 +8,17 @@ state={
 
 	history={
 		owner = DAC
+		victory_points = {
+			10007 1 
+		}
+		victory_points = {
+			9940 1 
+		}
 		buildings = {
 			infrastructure = 9
 		}
 		add_core_of = DAC
+		#add_core_of = ACH
 	}
 	
 	provinces={

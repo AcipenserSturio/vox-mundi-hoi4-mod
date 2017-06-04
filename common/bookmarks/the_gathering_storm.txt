@@ -7,8 +7,8 @@ bookmarks = {
 		default_country = "MRU"
 		default = yes
 		
-		"VAL"={
-			history = "VAL_VOX_MUNDI_DESC"
+		"CLN"={
+			history = "CLN_VOX_MUNDI_DESC"
 			ideology = democratic
 			ideas = {}
 		}
@@ -30,16 +30,16 @@ bookmarks = {
 		"FLE"={
 			history = "FLE_VOX_MUNDI_DESC"
 			ideology = fascism
-			ideas={}			
+			ideas={}
 		}
 		"KRE"={
 			history = "KRE_VOX_MUNDI_DESC"
 			ideology = democratic
-			ideas={}			
+			ideas={}	
 		}
-		"EES"={
-			history = "EES_VOX_MUNDI_DESC"
-			ideology = fascism
+		"DAC"={
+			history = "DAC_VOX_MUNDI_DESC"
+			ideology = democratic
 			ideas = {}
 		}
 

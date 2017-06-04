@@ -1,3 +1,44 @@
+#Releaseable
+
+# Castille:
+# MLC Malacca
+
+# Dacia:
+# KHM Khmer/Cambodia
+# MGY Magyar
+# HRV Croatia
+# CRI Crimea
+# TRS Transylvania
+# BLG Bulgaria
+# DUK Duklja
+# OBL Obale Proroka
+# HLL Hellenia 
+# ACH Acheia
+# KRD Kardox
+
+# CLN:
+# DNE Dene
+# MTS Metis
+
+# Valois:
+# NTH Netherlands
+
+# Pruthenia:
+# SJA Sjalland
+# PMR Pomeralia
+# THU Thuringia
+
+# Anglia:
+# NAN North Anglia
+
+# Korea:
+# MNG Mongolia
+# MNC Manchuria
+
+# Turov:
+# FNE Fenno-Estonia
+# TVE Tver
+
 #Europe
 CAS = "countries/Europe/Castille.txt"
 DAC = "countries/Europe/Dacia.txt"
