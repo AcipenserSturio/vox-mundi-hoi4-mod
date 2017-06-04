@@ -1,0 +1,32 @@
+
+state={
+	id=741
+	name="STATE_741" # Flanders
+	manpower = 1187000
+	resources={
+		steel=12
+	}
+	
+	state_category = metropolis
+
+	history={
+		owner = FLA
+		victory_points = { 6598 30 }
+		buildings = {
+			infrastructure = 10
+			arms_factory = 2
+			industrial_complex = 6
+			air_base = 3
+			6598 = {
+				naval_base = 3
+			}
+		}
+		
+		
+		add_core_of = BEL
+	}
+
+	provinces={
+		6598 11419 
+	}
+}

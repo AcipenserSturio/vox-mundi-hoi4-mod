@@ -1,0 +1,4 @@
+FLA = "countries/new/Flanders.txt"
+VAL = "countries/new/Valois.txt"
+AKO = "countries/new/Akovitavia.txt"
+CAS = "countries/new/Castille.txt"
