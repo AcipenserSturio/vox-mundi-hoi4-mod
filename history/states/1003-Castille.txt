@@ -1,0 +1,399 @@
+state={
+	id=28
+	name="STATE_28"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		3737 3931 3933 9857
+	}
+}
+
+state={
+	id=29
+	name="STATE_29"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		854 872 897 3898 3899 6812 6836 6865 6927 6966 9764 9797 9824 11779 
+	}
+}
+
+state={
+	id=30
+	name="STATE_30"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		790 899 915 3816 3954 6901 9813 9840 9842 11793 11819 11821 11838 
+	}
+}
+
+state={
+	id=31
+	name="STATE_31"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		1093 4195 7111 10024 10109 
+	}
+}
+
+state={
+	id=32
+	name="STATE_32"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		1048 1178 3940 4080 4135 6884 7098 7183 9815 9819 9891 10094 11749 12070
+	}
+}
+
+state={
+	id=33
+	name="STATE_33"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		729 758 3761 6734 6764 6955 9686 9689 11675 11677 11692 11710 11840
+	}
+}
+
+state={
+	id=34
+	name="STATE_34"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		980 3790 3846 3866 3886 3926 6880 6884 6933 6986 9765 9819 9869
+	}
+}
+
+state={
+	id=35
+	name="STATE_35"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		844 924 970 3861 11768 11805
+	}
+}
+
+state={
+	id=36
+	name="STATE_36"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		799 845 889 938 3798 3969 6818 6924 6996 9787 11885
+	}
+}
+
+state={
+	id=37
+	name="STATE_37"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		724 877 3892 6921 6941 9817 11673
+	}
+}
+
+state={
+	id=38
+	name="STATE_38"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		726 918 920 3725 3727 3729 3744 3918 3920 6746 6749 6907 9699 9719 11707 11843 4024
+	}
+}
+
+state={
+	id=39
+	name="STATE_39"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		857 884 885 903 3820 3859 3887 3902 6903 6936 9800 9827 9846 9870 9872 11766 11806 11809 11825
+	}
+}
+
+state={
+	id=40
+	name="STATE_40"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		747 875 950 1090 1176 1192 3871 4065 4095 4182 6744 7068 7153 7196 7198 9979 10009 10063 10111 11956 12038 12083
+	}
+}
+
+state={
+	id=41
+	name="STATE_41"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		738 740 932 3735 6756 9700 9703 11684 11688 11852 11854 
+	}
+}
+
+state={
+	id=42
+	name="STATE_42"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		798 871 962 3799 3835 3873 3909 4098 6817 6856 6906 6959 9889 9896 11884
+	}
+}
+
+state={
+	id=43
+	name="STATE_43"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		858 896 939 977 3794 3845 3858 3938 3986 6841 6914 6993 9767 9785 11820 
+	}
+}
+
+state={
+	id=44
+	name="STATE_44"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		813 948 6878 7213 9812 9933 11737
+	}
+}
+
+state={
+	id=45
+	name="STATE_45"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		794 809 874 879 931 985 3810 3874 3930 6866 6867 6902 6948 6954 9770 9839 9877 9917 9925 11756 11780 11798 11851 
+	}
+}
+
+state={
+	id=46
+	name="STATE_46"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		832 888 942 3891 3945 3953 6800 6832 6879 6896 9757 9778 9828 9852 9881 9903 11742 11807 11812 11863 11870 12081  
+	}
+}
+
+state={
+	id=47
+	name="STATE_47"
+	manpower = 200000
+	
+	state_category = city
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 9
+		}
+		add_core_of = CAS
+	}
+	
+	provinces={
+		7114 9793 9845
+	}
+}
