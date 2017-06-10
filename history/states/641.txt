@@ -7,7 +7,7 @@ state={
 	state_category = city
 	
 	history={
-		owner = VIN
+		owner = VNL
 		buildings = {
 			infrastructure = 9
 		}
@@ -17,7 +17,7 @@ state={
 		victory_points = {
 			12149 3
 		}
-		add_core_of = VIN
+		add_core_of = VNL
 	}
 	
 	provinces={

@@ -26,7 +26,7 @@ PRT = {
 	color_ui = rgb { 217 112 126 }
 }
 
-ANG = {
+AGL = {
 	color = rgb { 200 90 0 }
 	color_ui = rgb { 220 110 20 }
 }
@@ -152,7 +152,7 @@ CLN = {
 	color_ui = rgb { 247 161 167 }
 }
 
-VIN = {
+VNL = {
 	color = rgb { 163 159 245 }
 	color_ui = rgb { 183 179 255 }
 }
