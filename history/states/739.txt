@@ -11,6 +11,12 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			6994 5
+		}
+		victory_points = {
+			7169 15
+		}
 		add_core_of = TKH
 	}
 	

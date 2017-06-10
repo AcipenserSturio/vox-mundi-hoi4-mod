@@ -12,7 +12,13 @@ state={
 			infrastructure = 9
 		}
 		victory_points = { 
-			1984 1.0 
+			1984 1
+		}
+		victory_points = {
+			12766 1
+		}
+		victory_points = {
+			12725 1
 		}
 		add_core_of = AFR
 	}

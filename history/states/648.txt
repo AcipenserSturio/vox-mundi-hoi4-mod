@@ -11,6 +11,12 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			13090 1 
+		}
+		victory_points = {
+			13091 3 
+		}
 		add_core_of = CLN
 		#add_core_of = DNE
 	}

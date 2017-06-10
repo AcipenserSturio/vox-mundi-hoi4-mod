@@ -11,6 +11,12 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			8117 1 
+		}
+		victory_points = {
+			7982 3 
+		}
 		add_core_of = HMD
 	}
 	
