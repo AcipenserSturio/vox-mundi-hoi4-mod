@@ -11,6 +11,12 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = { 
+			4925 5 
+		}
+		victory_points = { 
+			6999 20
+		}
 		add_core_of = EES
 	}
 	

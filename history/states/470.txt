@@ -11,6 +11,9 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			13021 1 
+		}
 		add_core_of = BRU
 	}
 	

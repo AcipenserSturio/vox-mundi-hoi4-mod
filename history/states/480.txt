@@ -11,6 +11,9 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			13025 5
+		}
 		add_core_of = CAS
 	}
 	

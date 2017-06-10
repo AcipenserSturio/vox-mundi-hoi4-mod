@@ -14,6 +14,12 @@ state={
 		victory_points = {
 			10062 3 
 		}
+		victory_points = {
+			1047 5
+		}
+		victory_points = {
+			4189 1 
+		}
 		add_core_of = ZHE
 	}
 	

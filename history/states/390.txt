@@ -11,6 +11,12 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			1468 3 
+		}
+		victory_points = {
+			4696 1 
+		}
 		add_core_of = AGL
 	}
 	
