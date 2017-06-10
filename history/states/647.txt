@@ -11,6 +11,15 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			6732 20 
+		}
+		victory_points = {
+			9832 1 
+		}
+		victory_points = {
+			3878 30 
+		}
 		add_core_of = VIN
 	}
 	

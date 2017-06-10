@@ -11,6 +11,15 @@ state={
 		buildings = {
 			infrastructure = 9
 		}
+		victory_points = {
+			12299 10
+		}
+		victory_points = {
+			7329 1 
+		}
+		victory_points = {
+			10297 1 
+		}
 		add_core_of = CAS
 		#add_core_of = ATJ
 		#add_core_of = MLC
