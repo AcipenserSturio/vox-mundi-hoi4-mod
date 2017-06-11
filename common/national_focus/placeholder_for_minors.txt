@@ -1,0 +1,23 @@
+focus_tree = {
+	id = generic_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			OR = {
+				tag = VAL
+				tag = PRT
+				tag = VNL
+				tag = EES
+				tag = AFR
+				tag = SEV
+				tag = LTH
+				tag = UIW
+			}
+		}
+	}
+	
+	default = no
+}

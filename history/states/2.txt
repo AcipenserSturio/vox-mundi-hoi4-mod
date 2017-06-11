@@ -18,7 +18,7 @@ state={
 			9498 15
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 8
 		}
 		add_core_of = VAL
 		#add_core_of = NTH

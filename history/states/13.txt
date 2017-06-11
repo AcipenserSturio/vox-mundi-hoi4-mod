@@ -12,7 +12,7 @@ state={
 			11465 5
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 7
 		}
 		add_core_of = VAL
 	}

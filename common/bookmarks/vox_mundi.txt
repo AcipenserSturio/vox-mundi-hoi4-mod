@@ -1,0 +1,120 @@
+bookmarks = {
+	bookmark = {
+		name = "VOX_MUNDI_NAME"
+		desc = "VOX_MUNDI_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "MRU"
+		default = yes
+		
+		"CLN"={
+			history = "CLN_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+		"CAS"={
+			history = "CAS_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+		"GWR"={
+			history = "GWR_VOX_MUNDI_DESC"
+			ideology = communism
+			ideas = {}
+			focuses = {}
+		}
+		"MRU"={
+			history = "MRU_VOX_MUNDI_DESC"
+			ideology = communism
+			ideas = {}
+			focuses = {}
+		}
+		"FLE"={
+			history = "FLE_VOX_MUNDI_DESC"
+			ideology = fascism
+			ideas={}
+			focuses = {}
+		}
+		"KRE"={
+			history = "KRE_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas={}
+			focuses = {}
+		}
+		"DAC"={
+			history = "DAC_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+
+		"---"={
+			history = "OTHER_VOX_MUNDI_DESC"
+		}
+		
+		
+		"VAL"={
+			minor = yes
+			history = "VAL_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+		"PRT"={
+			minor = yes
+			history = "PRT_VOX_MUNDI_DESC"
+			ideology = communism
+			ideas = {}
+			focuses = {}
+		}
+		"VNL"={
+			minor = yes
+			history = "VNL_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+		"EES"={
+			minor = yes
+			history = "EES_VOX_MUNDI_DESC"
+			ideology = fascism
+			ideas = {}
+			focuses = {}
+		}
+		"AFR"={
+			minor = yes
+			history = "AFR_VOX_MUNDI_DESC"
+			ideology = communism
+			ideas = {}
+			focuses = {}
+		}
+		"SEV"={
+			minor = yes
+			history = "SEV_VOX_MUNDI_DESC"
+			ideology = fascism
+			ideas = {}
+			focuses = {}
+		}
+		"LTH"={
+			minor = yes
+			history = "LTH_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+		"UIW"={
+			minor = yes
+			history = "UIW_VOX_MUNDI_DESC"
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+
+		effect = {
+			randomize_weather = 41325 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
