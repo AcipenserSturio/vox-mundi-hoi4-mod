@@ -9,7 +9,7 @@ state={
 	history={
 		owner = CAS
 		buildings = {
-			infrastructure = 9
+			infrastructure = 3
 		}
 		victory_points = {
 			10929 1 

@@ -9,7 +9,7 @@ state={
 	history={
 		owner = UIW
 		buildings = {
-			infrastructure = 9
+			infrastructure = 6
 		}
 		add_core_of = UIW
 	}

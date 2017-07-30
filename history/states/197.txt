@@ -12,7 +12,7 @@ state={
 			6050 20 
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 7
 		}
 		add_core_of = JMT
 	}

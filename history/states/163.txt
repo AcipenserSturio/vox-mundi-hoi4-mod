@@ -12,7 +12,7 @@ state={
 			11586 15 
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 6
 		}
 		add_core_of = MRU
 	}

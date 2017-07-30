@@ -12,7 +12,7 @@ state={
 			11479 5 
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 6
 		}
 		add_core_of = PRT
 	}

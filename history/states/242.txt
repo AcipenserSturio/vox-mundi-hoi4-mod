@@ -12,7 +12,7 @@ state={
 			3134 5 
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 2
 		}
 		add_core_of = LTH
 	}

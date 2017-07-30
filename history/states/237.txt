@@ -9,7 +9,7 @@ state={
 	history={
 		owner = JMT
 		buildings = {
-			infrastructure = 9
+			infrastructure = 3
 		}
 		victory_points = {
 			9108 1 

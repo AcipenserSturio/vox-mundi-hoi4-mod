@@ -12,7 +12,7 @@ state={
 			3686 20
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 7
 		}
 		add_core_of = DAC
 		#add_core_of = CRI

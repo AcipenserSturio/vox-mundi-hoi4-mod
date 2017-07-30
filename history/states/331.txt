@@ -9,7 +9,7 @@ state={
 	history={
 		owner = AFR
 		buildings = {
-			infrastructure = 9
+			infrastructure = 6
 		}
 		victory_points = {
 			7011 5

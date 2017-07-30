@@ -9,7 +9,7 @@ state={
 	history={
 		owner = OSS
 		buildings = {
-			infrastructure = 9
+			infrastructure = 4
 		}
 		victory_points = {
 			9753 3 

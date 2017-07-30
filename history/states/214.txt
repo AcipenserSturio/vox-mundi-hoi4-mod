@@ -12,7 +12,7 @@ state={
 			12674 1 
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 2
 		}
 		add_core_of = ICL
 	}

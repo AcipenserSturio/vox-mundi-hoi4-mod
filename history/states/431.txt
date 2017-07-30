@@ -12,7 +12,7 @@ state={
 			12320 1 
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 3
 		}
 		add_core_of = GBG
 	}

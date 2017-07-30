@@ -9,7 +9,7 @@ state={
 	history={
 		owner = SUI
 		buildings = {
-			infrastructure = 9
+			infrastructure = 4
 		}
 		victory_points = {
 			1814 10

@@ -9,7 +9,7 @@ state={
 	history={
 		owner = AGL
 		buildings = {
-			infrastructure = 9
+			infrastructure = 7
 		}
 		add_core_of = AGL
 		#add_core_of = NAN

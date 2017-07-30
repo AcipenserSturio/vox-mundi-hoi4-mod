@@ -9,7 +9,7 @@ state={
 	history={
 		owner = AGL
 		buildings = {
-			infrastructure = 9
+			infrastructure = 7
 		}
 		victory_points = {
 			3369 5 

@@ -12,7 +12,7 @@ state={
 			3938 30.0 
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 6
 		}
 		add_core_of = CAS
 	}

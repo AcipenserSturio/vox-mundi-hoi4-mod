@@ -9,7 +9,7 @@ state={
 	history={
 		owner = DAC
 		buildings = {
-			infrastructure = 9
+			infrastructure = 5
 		}
 		victory_points = {
 			11818 5 

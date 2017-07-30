@@ -15,7 +15,7 @@ state={
 			11833 1 
 		}
 		buildings = {
-			infrastructure = 9
+			infrastructure = 8
 		}
 		add_core_of = FLE
 	}
