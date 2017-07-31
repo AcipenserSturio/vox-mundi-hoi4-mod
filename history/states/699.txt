@@ -9,7 +9,7 @@ state={
 	history={
 		owner = CEY
 		buildings = {
-			infrastructure = 9
+			infrastructure = 5
 		}
 		victory_points = {
 			10201 3 

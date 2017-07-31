@@ -9,7 +9,7 @@ state={
 	history={
 		owner = NGR
 		buildings = {
-			infrastructure = 9
+			infrastructure = 4
 		}
 		victory_points = {
 			1944 1 

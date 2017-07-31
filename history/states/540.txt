@@ -9,7 +9,7 @@ state={
 	history={
 		owner = PMP
 		buildings = {
-			infrastructure = 9
+			infrastructure = 6
 		}
 		victory_points = {
 			12364 10 

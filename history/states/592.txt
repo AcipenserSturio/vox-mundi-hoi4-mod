@@ -9,7 +9,7 @@ state={
 	history={
 		owner = CLN
 		buildings = {
-			infrastructure = 9
+			infrastructure = 4
 		}
 		victory_points = {
 			1747 1 

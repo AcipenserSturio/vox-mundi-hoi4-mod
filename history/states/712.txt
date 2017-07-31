@@ -9,7 +9,7 @@ state={
 	history={
 		owner = MAM
 		buildings = {
-			infrastructure = 9
+			infrastructure = 4
 		}
 		victory_points = {
 			4516 1

@@ -9,7 +9,7 @@ state={
 	history={
 		owner = ZHE
 		buildings = {
-			infrastructure = 9
+			infrastructure = 3
 		}
 		victory_points = { 
 			4196 3 

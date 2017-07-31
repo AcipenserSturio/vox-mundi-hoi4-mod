@@ -9,7 +9,7 @@ state={
 	history={
 		owner = ATJ
 		buildings = {
-			infrastructure = 9
+			infrastructure = 3
 		}
 		victory_points = {
 			7236 1 

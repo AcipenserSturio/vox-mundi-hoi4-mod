@@ -9,7 +9,7 @@ state={
 	history={
 		owner = KRE
 		buildings = {
-			infrastructure = 9
+			infrastructure = 5
 		}
 		victory_points = {
 			4572 1

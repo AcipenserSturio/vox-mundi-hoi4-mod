@@ -9,7 +9,7 @@ state={
 	history={
 		owner = TEJ
 		buildings = {
-			infrastructure = 9
+			infrastructure = 3
 		}
 		victory_points = {
 			4956 1 

@@ -9,7 +9,7 @@ state={
 	history={
 		owner = EES
 		buildings = {
-			infrastructure = 9
+			infrastructure = 1
 		}
 		victory_points = {
 			4709 3 

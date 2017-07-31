@@ -9,7 +9,7 @@ state={
 	history={
 		owner = VAL
 		buildings = {
-			infrastructure = 9
+			infrastructure = 4
 		}
 		victory_points = {
 			8011 1

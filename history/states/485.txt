@@ -9,7 +9,7 @@ state={
 	history={
 		owner = MKS
 		buildings = {
-			infrastructure = 9
+			infrastructure = 3
 		}
 		victory_points = {
 			10263 3 

@@ -9,7 +9,7 @@ state={
 	history={
 		owner = VNL
 		buildings = {
-			infrastructure = 9
+			infrastructure = 5
 		}
 		victory_points = {
 			3513 1 

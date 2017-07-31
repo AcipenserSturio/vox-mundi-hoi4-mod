@@ -9,7 +9,7 @@ state={
 	history={
 		owner = SIS
 		buildings = {
-			infrastructure = 9
+			infrastructure = 4
 		}
 		victory_points = {
 			3456 3 

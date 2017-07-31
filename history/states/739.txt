@@ -9,7 +9,7 @@ state={
 	history={
 		owner = TKH
 		buildings = {
-			infrastructure = 9
+			infrastructure = 2
 		}
 		victory_points = {
 			6994 5

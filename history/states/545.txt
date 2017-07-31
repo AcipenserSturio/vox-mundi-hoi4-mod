@@ -9,7 +9,7 @@ state={
 	history={
 		owner = PMP
 		buildings = {
-			infrastructure = 9
+			infrastructure = 2
 		}
 		add_core_of = PMP
 	}

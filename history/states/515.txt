@@ -9,7 +9,7 @@ state={
 	history={
 		owner = DBU
 		buildings = {
-			infrastructure = 9
+			infrastructure = 3
 		}
 		victory_points = {
 			10747 10
