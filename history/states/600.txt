@@ -14,6 +14,9 @@ state={
 		victory_points = {
 			1843 5 
 		}
+		victory_points = {
+			7388 10 
+		}
 		add_core_of = TGR
 	}
 	

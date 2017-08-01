@@ -20,6 +20,9 @@ state={
 		victory_points = {
 			4598 1 
 		}
+		victory_points = {
+			1594 15
+		}
 		add_core_of = SEV
 	}
 	

@@ -1,4 +1,4 @@
-﻿capital = 261
+﻿capital = 260
 oob = "empty"
 set_research_slots = 3
 set_convoys = 500

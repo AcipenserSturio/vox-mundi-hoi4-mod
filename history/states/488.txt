@@ -17,6 +17,9 @@ state={
 		victory_points = {
 			12268 1 
 		}
+		victory_points = {
+			7658 10 
+		}
 		add_core_of = ATJ
 	}
 	

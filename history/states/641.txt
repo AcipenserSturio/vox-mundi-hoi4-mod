@@ -12,10 +12,10 @@ state={
 			infrastructure = 7
 		}
 		victory_points = {
-			4345 20
+			4345 10
 		}
 		victory_points = {
-			12149 3
+			12149 20
 		}
 		add_core_of = VNL
 	}
