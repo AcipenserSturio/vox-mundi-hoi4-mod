@@ -2,9 +2,9 @@
 state={
 	id=1
 	name="STATE_1"
-	manpower = 200000
+	manpower = 68550
 	
-	state_category = city
+	state_category = metropolis
 
 	history={
 		owner = FLA
