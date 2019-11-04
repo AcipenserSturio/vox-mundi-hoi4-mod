@@ -2,16 +2,16 @@
 state={
 	id=465
 	name="STATE_465"
-	manpower = 200000
+	manpower = 663580
 	
 	state_category = city
 	
 	history={
-		owner = SEV
+		owner = ZHE
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = SEV
+		add_core_of = ZHE
 	}
 	
 	provinces={
