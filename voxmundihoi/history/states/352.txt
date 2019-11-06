@@ -2,9 +2,9 @@
 state={
 	id=352
 	name="STATE_352"
-	manpower = 9390
+	manpower = 37560
 	
-	state_category = city
+	state_category = wasteland
 	
 	history={
 		owner = AFR
@@ -18,3 +18,5 @@ state={
 		5004 7154 10067 10884
 	}
 }
+
+

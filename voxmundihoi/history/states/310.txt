@@ -2,9 +2,9 @@
 state={
 	id=310
 	name="STATE_310"
-	manpower = 122340
+	manpower = 489360
 	
-	state_category = city
+	state_category = pastoral
 	
 	history={
 		owner = OSS
@@ -18,3 +18,5 @@ state={
 		685 731 6718 6733 9647 11614 11633
 	}
 }
+
+

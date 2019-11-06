@@ -2,9 +2,9 @@
 state={
 	id=878
 	name="STATE_878"
-	manpower = 312670
+	manpower = 1250680
 	
-	state_category = city
+	state_category = large_town
 	
 	history={
 		owner = EES
@@ -18,3 +18,5 @@ state={
 		227 1210 1254 1290 1350 1378 3265 3330 3385 3563 4322 4324 6379 6515 7343 9420 10299 11433 12128 12242 12270 12298
 	}
 }
+
+

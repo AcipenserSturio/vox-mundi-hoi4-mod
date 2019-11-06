@@ -2,9 +2,9 @@
 state={
 	id=647
 	name="STATE_647"
-	manpower = 3391000
+	manpower = 13564000
 	
-	state_category = city
+	state_category = megalopolis
 	
 	history={
 		owner = VNL
@@ -27,3 +27,5 @@ state={
 		706 715 718 859 905 908 3710 3806 3878 3894 3906 6717 6732 6909 6911 9673 9693 9774 9832 9847 9850 11650 11660 11680 11830
 	}
 }
+
+

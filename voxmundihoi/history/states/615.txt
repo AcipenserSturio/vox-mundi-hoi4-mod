@@ -2,9 +2,9 @@
 state={
 	id=615
 	name="STATE_615"
-	manpower = 1120000
+	manpower = 4480000
 	
-	state_category = city
+	state_category = metropolis
 	
 	history={
 		owner = VNL
@@ -18,3 +18,5 @@ state={
 		610 677 710 766 768 781 986 3588 3644 3677 3678 3784 3840 4331 6482 6665 6681 6745 6757 6772 6861 6881 9637 9671 9697 9713 9730 10159 11658 11698 11876 
 	}
 }
+
+

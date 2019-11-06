@@ -2,9 +2,9 @@
 state={
 	id=410
 	name="STATE_410"
-	manpower = 170790
+	manpower = 683160
 	
-	state_category = city
+	state_category = rural
 	
 	history={
 		owner = GBG
@@ -21,3 +21,5 @@ state={
 		1074 1544 4111 4440 4486 4550 7001 7170 7184
 	}
 }
+
+

@@ -2,9 +2,9 @@
 state={
 	id=699
 	name="STATE_699"
-	manpower = 174430
+	manpower = 697720
 	
-	state_category = city
+	state_category = rural
 	
 	history={
 		owner = CEY
@@ -24,3 +24,5 @@ state={
 		1213 4219 7260 7344 10201 10229 10287 12258
 	}
 }
+
+

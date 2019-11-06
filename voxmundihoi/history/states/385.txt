@@ -2,9 +2,9 @@
 state={
 	id=385
 	name="STATE_385"
-	manpower = 138490
+	manpower = 553960
 	
-	state_category = city
+	state_category = rural
 	
 	history={
 		owner = CAS
@@ -21,3 +21,5 @@ state={
 		2126 4735 8138 8202 10966 12391 12981 12985
 	}
 }
+
+

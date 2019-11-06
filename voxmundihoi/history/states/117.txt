@@ -2,9 +2,9 @@
 state={
 	id=117
 	name="STATE_117"
-	manpower = 127900
+	manpower = 511600
 	
-	state_category = city
+	state_category = rural
 
 	history={
 		owner = DAC
@@ -19,3 +19,5 @@ state={
 		785 6864 6912 9799 9887 11778 11867
 	}
 }
+
+

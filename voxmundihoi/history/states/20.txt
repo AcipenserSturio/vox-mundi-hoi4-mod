@@ -2,9 +2,9 @@
 state={
 	id=20
 	name="STATE_20"
-	manpower = 167500
+	manpower = 670000
 	
-	state_category = city
+	state_category = rural
 
 	history={
 		owner = AKO
@@ -18,3 +18,5 @@ state={
 		651 3621 3626 6648 6651 9593
 	}
 }
+
+

@@ -2,9 +2,9 @@
 state={
 	id=762
 	name="STATE_762"
-	manpower = 195430
+	manpower = 781720
 	
-	state_category = city
+	state_category = town
 	
 	history={
 		owner = SEV
@@ -18,3 +18,5 @@ state={
 		1296 1315 1385 1403 4275 4408 7295 10217 12125 12238 12292
 	}
 }
+
+

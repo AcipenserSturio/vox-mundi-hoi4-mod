@@ -2,9 +2,9 @@
 state={
 	id=54
 	name="STATE_54"
-	manpower = 448500
+	manpower = 1794000
 	
-	state_category = city
+	state_category = large_city
 
 	history={
 		owner = FLE
@@ -21,3 +21,5 @@ state={
 		607 611 776 3780 3782 6635 9584 11570
 	}
 }
+
+

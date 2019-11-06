@@ -2,9 +2,9 @@
 state={
 	id=331
 	name="STATE_331"
-	manpower = 1233000
+	manpower = 4932000
 	
-	state_category = city
+	state_category = large_city
 	
 	history={
 		owner = AFR
@@ -24,3 +24,5 @@ state={
 		1068 3996 4055 4073 4076 4143 7011 7091 7164 7188 10005 10031 10073 11964 12004 12049
 	}
 }
+
+

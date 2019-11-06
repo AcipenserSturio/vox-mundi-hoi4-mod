@@ -2,9 +2,9 @@
 state={
 	id=799
 	name="STATE_799"
-	manpower = 1310860
+	manpower = 5243440
 	
-	state_category = city
+	state_category = megalopolis
 	
 	history={
 		owner = ZHE
@@ -27,3 +27,5 @@ state={
 		1047 1120 4189 7108 9970 9997 10062 10080 11938 12014 12095
 	}
 }
+
+

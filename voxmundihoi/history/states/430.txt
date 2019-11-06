@@ -2,9 +2,9 @@
 state={
 	id=430
 	name="STATE_430"
-	manpower = 65870
+	manpower = 263480
 	
-	state_category = city
+	state_category = pastoral
 	
 	history={
 		owner = GBG
@@ -18,3 +18,5 @@ state={
 		717 719 3698 3760 9663 11617 11647 11668 
 	}
 }
+
+

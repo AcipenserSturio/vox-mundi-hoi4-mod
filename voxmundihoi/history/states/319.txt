@@ -2,9 +2,9 @@
 state={
 	id=319
 	name="STATE_319"
-	manpower = 2659980
+	manpower = 10639920
 	
-	state_category = city
+	state_category = town
 	
 	history={
 		owner = AGL
@@ -18,3 +18,5 @@ state={
 		1969 1992 4889 4938 4952 4972 7978 8021 8034 8109 10820 12900
 	}
 }
+
+

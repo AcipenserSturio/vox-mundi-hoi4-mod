@@ -2,9 +2,9 @@
 state={
 	id=531
 	name="STATE_531"
-	manpower = 269040
+	manpower = 1076160
 	
-	state_category = city
+	state_category = town
 	
 	history={
 		owner = PMP
@@ -18,3 +18,5 @@ state={
 		2195 2209 5165 8203 10973
 	}
 }
+
+

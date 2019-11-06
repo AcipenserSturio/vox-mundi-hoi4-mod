@@ -2,9 +2,9 @@
 state={
 	id=123
 	name="STATE_123"
-	manpower = 48210
+	manpower = 192840
 	
-	state_category = city
+	state_category = pastoral
 
 	history={
 		owner = DAC
@@ -18,3 +18,5 @@ state={
 		1005 1119 9941 10122 12013 12016 12096
 	}
 }
+
+

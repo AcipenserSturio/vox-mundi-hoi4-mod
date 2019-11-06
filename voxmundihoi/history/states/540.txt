@@ -2,9 +2,9 @@
 state={
 	id=540
 	name="STATE_540"
-	manpower = 427020
+	manpower = 1708080
 	
-	state_category = city
+	state_category = large_town
 	
 	history={
 		owner = PMP
@@ -24,3 +24,5 @@ state={
 		1555 1568 1596 1624 1639 4573 4602 4643 7621 10375 10390 10402 10418 12351 12364 12379 12394 12409 12998
 	}
 }
+
+

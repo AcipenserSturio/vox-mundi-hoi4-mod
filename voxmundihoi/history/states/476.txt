@@ -2,9 +2,9 @@
 state={
 	id=476
 	name="STATE_476"
-	manpower = 1700
+	manpower = 6800
 	
-	state_category = city
+	state_category = tiny_island
 	
 	history={
 		owner = BRU
@@ -18,3 +18,5 @@ state={
 		13051
 	}
 }
+
+

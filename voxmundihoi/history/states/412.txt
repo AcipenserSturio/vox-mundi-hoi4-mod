@@ -2,9 +2,9 @@
 state={
 	id=412
 	name="STATE_412"
-	manpower = 315590
+	manpower = 1262360
 	
-	state_category = city
+	state_category = large_town
 	
 	history={
 		owner = GBG
@@ -18,3 +18,5 @@ state={
 		901 1549 1578 1606 1634 2013 3942 6883 7513 10383 10882 12316 12442
 	}
 }
+
+

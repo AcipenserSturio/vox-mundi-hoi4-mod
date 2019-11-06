@@ -2,9 +2,9 @@
 state={
 	id=861
 	name="STATE_861"
-	manpower = 232340
+	manpower = 929360
 	
-	state_category = wasteland
+	state_category = rural
 	
 	history={
 		owner = EES
@@ -18,3 +18,5 @@ state={
 		4874 7824 10216 10551 10677 12393 12659
 	}
 }
+
+

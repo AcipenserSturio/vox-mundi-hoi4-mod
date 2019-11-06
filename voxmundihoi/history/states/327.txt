@@ -2,9 +2,9 @@
 state={
 	id=327
 	name="STATE_327"
-	manpower = 165830
+	manpower = 663320
 	
-	state_category = city
+	state_category = small_island
 	
 	history={
 		owner = SEV
@@ -18,3 +18,5 @@ state={
 		13014
 	}
 }
+
+

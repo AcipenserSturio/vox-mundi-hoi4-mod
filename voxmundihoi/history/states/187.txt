@@ -2,9 +2,9 @@
 state={
 	id=187
 	name="STATE_187"
-	manpower = 171920
+	manpower = 687680
 	
-	state_category = city
+	state_category = large_city
 	
 	history={
 		owner = LTH
@@ -21,3 +21,5 @@ state={
 		3309 6359 6413 9236 9304 9359 11341
 	}
 }
+
+
