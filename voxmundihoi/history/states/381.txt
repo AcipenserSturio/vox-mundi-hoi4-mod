@@ -10,6 +10,7 @@ state={
 		owner = CAS
 		buildings = {
 			infrastructure = 3
+			dockyard = 1
 		}
 		victory_points = {
 			5117 3 

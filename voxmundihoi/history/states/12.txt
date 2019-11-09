@@ -19,6 +19,8 @@ state={
 		}
 		buildings = {
 			infrastructure = 8
+			industrial_complex = 1
+			dockyard = 1
 		}
 		add_core_of = VAL
 	}

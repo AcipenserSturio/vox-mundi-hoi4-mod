@@ -10,6 +10,8 @@ state={
 		owner = VNL
 		buildings = {
 			infrastructure = 6
+			industrial_complex = 4
+			arms_factory = 1
 		}
 		victory_points = {
 			6732 20 

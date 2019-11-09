@@ -10,6 +10,7 @@ state={
 		owner = VAL
 		buildings = {
 			infrastructure = 4
+			industrial_complex = 1
 		}
 		victory_points = {
 			9975 1 

@@ -4,7 +4,7 @@ state={
 	name="STATE_129"
 	manpower = 665200
 	
-	state_category = metropolis
+	state_category = large_city
 
 	history={
 		owner = DAC
@@ -16,6 +16,7 @@ state={
 		}		
 		buildings = {
 			infrastructure = 8
+			dockyard = 3
 		}
 		add_core_of = DAC
 	}

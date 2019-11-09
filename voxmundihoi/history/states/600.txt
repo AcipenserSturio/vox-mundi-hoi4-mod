@@ -4,7 +4,7 @@ state={
 	name="STATE_600"
 	manpower = 8200000
 	
-	state_category = large_city
+	state_category = metropolis
 	
 	history={
 		owner = TGR

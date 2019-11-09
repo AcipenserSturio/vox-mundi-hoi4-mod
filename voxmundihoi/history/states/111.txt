@@ -10,6 +10,8 @@ state={
 		owner = DAC
 		buildings = {
 			infrastructure = 7
+			arms_factory = 1
+			dockyard = 2
 		}
 		victory_points = {
 			9833 20

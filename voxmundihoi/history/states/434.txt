@@ -10,6 +10,7 @@ state={
 		owner = GBG
 		buildings = {
 			infrastructure = 3
+			arms_factory = 3
 		}
 		victory_points = {
 			1896 3 

@@ -10,6 +10,8 @@ state={
 		owner = AGL
 		buildings = {
 			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 1
 		}
 		add_core_of = AGL
 		#add_core_of = NAN
