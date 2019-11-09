@@ -4,7 +4,7 @@ state={
 	name="STATE_53"
 	manpower = 2006320
 	
-	state_category = city
+	state_category = large_city
 
 	history={
 		owner = RAG
@@ -16,6 +16,9 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 2
 		}
 		add_core_of = RAG
 	}

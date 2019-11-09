@@ -10,6 +10,9 @@ state={
 		owner = TGR
 		buildings = {
 			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 4
+			dockyard = 3
 		}
 		victory_points = {
 			1843 5 

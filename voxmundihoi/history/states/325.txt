@@ -10,6 +10,7 @@ state={
 		owner = DMT
 		buildings = {
 			infrastructure = 3
+			dockyard = 1
 		}
 		victory_points = {
 			2196 1

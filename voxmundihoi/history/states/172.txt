@@ -10,6 +10,7 @@ state={
 		owner = MRU
 		buildings = {
 			infrastructure = 4
+			arms_factory = 1
 		}
 		victory_points = {
 			6573 1 

@@ -10,6 +10,7 @@ state={
 		owner = TKH
 		buildings = {
 			infrastructure = 4
+			dockyard = 1
 		}
 		victory_points = {
 			1182 50 

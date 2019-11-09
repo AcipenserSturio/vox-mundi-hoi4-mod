@@ -10,6 +10,7 @@ state={
 		owner = PMP
 		buildings = {
 			infrastructure = 5
+			arms_factory = 2
 		}
 		victory_points = {
 			7500 1 

@@ -10,6 +10,9 @@ state={
 		owner = TEJ
 		buildings = {
 			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 1
 		}
 		victory_points = {
 			4956 1 

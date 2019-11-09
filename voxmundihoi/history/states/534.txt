@@ -10,6 +10,7 @@ state={
 		owner = PMP
 		buildings = {
 			infrastructure = 3
+			arms_factory = 2
 		}
 		add_core_of = PMP
 	}

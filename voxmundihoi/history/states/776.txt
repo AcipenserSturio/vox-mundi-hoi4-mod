@@ -10,6 +10,7 @@ state={
 		owner = CHM
 		buildings = {
 			infrastructure = 4
+			industrial_complex = 1
 		}
 		victory_points = {
 			4334 5

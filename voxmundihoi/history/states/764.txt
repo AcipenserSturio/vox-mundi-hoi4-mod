@@ -10,6 +10,7 @@ state={
 		owner = ATJ
 		buildings = {
 			infrastructure = 3
+			dockyard = 1
 		}
 		victory_points = {
 			7236 1 
