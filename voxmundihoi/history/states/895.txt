@@ -1,0 +1,22 @@
+
+state={
+	id=895
+	name="STATE_895"
+	manpower = 1081280
+	
+	state_category = large_town
+	
+	history={
+		owner = VNL
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = VNL
+	}
+	
+	provinces={
+		3208 4666 7364 10176 12147 12600 13166 13181 13184 13186 13196
+	}
+}
+
+
