@@ -2,29 +2,17 @@
 oob = "empty"
 set_research_slots = 2
 set_convoys = 500
-set_national_unity = 0.75
 
 set_technology = {}
 
-set_politics = {
-	parties = {
-		democratic = { 
-			popularity = 25
-		}
+set_popularities = {
+	democratic = 25
+	fascism = 70
+	communism = 25
+	neutrality = 30
+}
 
-		fascism = {
-			popularity = 70
-		}
-		
-		communism = {
-			popularity = 25
-		}
-		
-		neutrality = {
-			popularity = 30
-		}
-	}
-	
+set_politics = {
 	ruling_party = fascism
 	last_election = "1933.4.26"
 	election_frequency = 48
