@@ -6,6 +6,11 @@ state={
 	
 	state_category = town
 
+	resources={
+		aluminium = 1
+		steel = 5
+	}
+
 	history={
 		owner = SUD
 		victory_points = {
@@ -24,5 +29,6 @@ state={
 		671 673 688 3675 9633 11618 11634
 	}
 }
+
 
 

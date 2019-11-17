@@ -6,6 +6,10 @@ state={
 	
 	state_category = large_town
 	
+	resources={
+		oil = 1
+	}
+
 	history={
 		owner = AFR
 		buildings = {
@@ -26,5 +30,6 @@ state={
 		992 1060 1071 1130 1143 4060 4136 4145 5078 7079 7117 7148 7206 9989 10061 10120 10127 11910 11967 12033 12091 12764 13078
 	}
 }
+
 
 

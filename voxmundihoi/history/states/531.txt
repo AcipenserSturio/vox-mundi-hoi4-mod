@@ -6,6 +6,11 @@ state={
 	
 	state_category = town
 	
+	resources={
+		tungsten = 3
+		steel = 2
+	}
+
 	history={
 		owner = PMP
 		buildings = {
@@ -18,5 +23,6 @@ state={
 		2195 2209 5165 8203 10973
 	}
 }
+
 
 

@@ -6,6 +6,12 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		aluminium = 8
+		oil = 5
+		steel = 20
+	}
+
 	history={
 		owner = CLN
 		buildings = {
@@ -21,5 +27,6 @@ state={
 		850 853 1793 3834 4796 6897 7747 7821 7920 8115 10573 10783 11814 12765
 	}
 }
+
 
 

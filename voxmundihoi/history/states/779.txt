@@ -6,6 +6,10 @@ state={
 	
 	state_category = large_town
 	
+	resources={
+		steel = 18
+	}
+
 	history={
 		owner = KRE
 		buildings = {
@@ -21,5 +25,6 @@ state={
 		675 1802 1842 4246 4701 4725 4779 4805 4829 7616 7672 7748 7763 7801 10655 10722 12192 12261 12263 12654 12678
 	}
 }
+
 
 

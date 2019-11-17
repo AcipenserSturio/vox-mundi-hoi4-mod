@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		tungsten = 2
+	}
+
 	history={
 		owner = MAM
 		buildings = {
@@ -21,5 +25,6 @@ state={
 		8010 12860
 	}
 }
+
 
 

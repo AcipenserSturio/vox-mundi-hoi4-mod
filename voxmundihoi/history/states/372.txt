@@ -6,6 +6,10 @@ state={
 	
 	state_category = town
 	
+	resources={
+		rubber = 2
+	}
+
 	history={
 		owner = AFR
 		buildings = {
@@ -19,5 +23,6 @@ state={
 		1891 1932 1975 2001 2025 2056 7950 7983 8039 8071 8096 10836 12707 12762 12817 12874 13212
 	}
 }
+
 
 

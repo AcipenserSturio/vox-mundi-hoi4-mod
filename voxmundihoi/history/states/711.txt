@@ -6,6 +6,11 @@ state={
 	
 	state_category = large_city
 	
+	resources={
+		tungsten = 11
+		steel = 13
+	}
+
 	history={
 		owner = MAM
 		buildings = {
@@ -24,5 +29,6 @@ state={
 		1159 1609 1656 4062 4204 4245 4644 7220 7475 7537 7593 10077 12050
 	}
 }
+
 
 

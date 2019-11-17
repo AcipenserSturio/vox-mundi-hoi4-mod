@@ -6,6 +6,10 @@ state={
 	
 	state_category = rural
 	
+	resources={
+		chromium = 23
+	}
+
 	history={
 		owner = EES
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		237 278 361 3280 4758 7320 10136 10142 10329 11223 11307 12117
 	}
 }
+
 
 

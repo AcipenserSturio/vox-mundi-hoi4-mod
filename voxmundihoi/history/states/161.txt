@@ -6,6 +6,10 @@ state={
 	
 	state_category = town
 	
+	resources={
+		aluminium = 7
+	}
+
 	history={
 		owner = MRU
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		606 3596 3985 6614 6619 6983 9586 9588 9591 9595 11574
 	}
 }
+
 
 

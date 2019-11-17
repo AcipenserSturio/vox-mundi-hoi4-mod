@@ -6,6 +6,10 @@ state={
 	
 	state_category = rural
 	
+	resources={
+		oil = 1
+	}
+
 	history={
 		owner = CLN
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		1323 1737 4870 10644
 	}
 }
+
 
 

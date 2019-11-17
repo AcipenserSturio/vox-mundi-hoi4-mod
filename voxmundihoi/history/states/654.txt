@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		oil = 70
+	}
+
 	history={
 		owner = HMD
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		1467 1539 1610 9715 11674 11704
 	}
 }
+
 
 

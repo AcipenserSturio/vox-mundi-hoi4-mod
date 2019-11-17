@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		steel = 30
+	}
+
 	history={
 		owner = LTH
 		victory_points = {
@@ -21,5 +25,6 @@ state={
 		36 86 94 134 170 176 197 3008 3067 3078 3189 6021 6029 6096 6175 9045 9074 9119 9158 9195 9198 11045 11085 11096 11175 11181
 	}
 }
+
 
 

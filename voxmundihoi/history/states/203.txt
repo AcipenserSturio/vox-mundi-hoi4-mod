@@ -6,6 +6,12 @@ state={
 	
 	state_category = town
 	
+	resources={
+		aluminium = 9
+		tungsten = 16
+		chromium = 1
+	}
+
 	history={
 		owner = UIW
 		victory_points = {
@@ -23,5 +29,6 @@ state={
 		131 3159 3178 6046 6062 6104 6196 6205 9090 11064 11266
 	}
 }
+
 
 

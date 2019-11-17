@@ -6,6 +6,11 @@ state={
 	
 	state_category = large_town
 
+	resources={
+		aluminium = 30
+		steel = 30
+	}
+
 	history={
 		owner = AKO
 		victory_points = {
@@ -23,5 +28,6 @@ state={
 		762 780 3589 3764 3768 6639 6784 9590 9736
 	}
 }
+
 
 

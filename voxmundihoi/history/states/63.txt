@@ -6,6 +6,11 @@ state={
 	
 	state_category = city
 
+	resources={
+		aluminium = 10
+		steel = 15
+	}
+
 	history={
 		owner = FLE
 		victory_points = {
@@ -24,5 +29,6 @@ state={
 		819 851 923 955 9826 11803
 	}
 }
+
 
 

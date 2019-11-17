@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 
+	resources={
+		aluminium = 6
+	}
+
 	history={
 		owner = PRT
 		victory_points = {
@@ -24,5 +28,6 @@ state={
 		316 332 394 399 3206 3277 3341 6235 6364 11366 11251
 	}
 }
+
 
 

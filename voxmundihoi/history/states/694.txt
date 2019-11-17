@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		rubber = 19
+	}
+
 	history={
 		owner = VAL
 		buildings = {
@@ -19,5 +23,6 @@ state={
 		1238 1321 7447
 	}
 }
+
 
 

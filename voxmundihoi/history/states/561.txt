@@ -6,6 +6,10 @@ state={
 	
 	state_category = rural
 	
+	resources={
+		chromium = 1
+	}
+
 	history={
 		owner = PAP
 		buildings = {
@@ -23,5 +27,6 @@ state={
 		12878 13087 13092
 	}
 }
+
 
 

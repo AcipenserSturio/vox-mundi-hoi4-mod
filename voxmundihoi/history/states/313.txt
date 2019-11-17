@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		chromium = 35
+	}
+
 	history={
 		owner = OSS
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		666 1450 1455 3668 3711 4463 6689 7554 7624 9645
 	}
 }
+
 
 

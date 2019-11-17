@@ -6,6 +6,11 @@ state={
 	
 	state_category = large_town
 
+	resources={
+		aluminium = 16
+		steel = 50
+	}
+
 	history={
 		owner = PRT
 		buildings = {
@@ -19,5 +24,6 @@ state={
 		552 573 3514 6534 6595 9535 11517
 	}
 }
+
 
 

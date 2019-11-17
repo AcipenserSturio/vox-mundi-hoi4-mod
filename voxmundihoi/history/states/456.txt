@@ -6,6 +6,10 @@ state={
 	
 	state_category = town
 	
+	resources={
+		rubber = 12
+	}
+
 	history={
 		owner = CAS
 		buildings = {
@@ -19,5 +23,6 @@ state={
 		1298 1339 1355 4301 4358 4579 7321 10175 10191 10219 12151 12162  1326 12178 12190 12206 13001
 	}
 }
+
 
 

@@ -6,6 +6,10 @@ state={
 	
 	state_category = rural
 	
+	resources={
+		chromium = 90
+	}
+
 	history={
 		owner = CAS
 		buildings = {
@@ -19,5 +23,6 @@ state={
 		1509 1580 8214 10525 10668 12940 12963
 	}
 }
+
 
 

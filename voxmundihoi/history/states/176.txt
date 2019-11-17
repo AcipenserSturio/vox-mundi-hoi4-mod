@@ -6,6 +6,11 @@ state={
 	
 	state_category = city
 	
+	resources={
+		oil = 3
+		steel = 5
+	}
+
 	history={
 		owner = MRU
 		buildings = {
@@ -20,5 +25,6 @@ state={
 		417 442 466 3410 6499 6522 9412 9551 9567 11398 11413 11507
 	}
 }
+
 
 

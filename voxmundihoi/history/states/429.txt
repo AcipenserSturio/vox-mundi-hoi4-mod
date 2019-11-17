@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		chromium = 14
+	}
+
 	history={
 		owner = GBG
 		buildings = {
@@ -21,5 +25,6 @@ state={
 		714 735 3717 3720 6692 6721 6736 6738 9649 9674 9691 9696 11664 11681
 	}
 }
+
 
 

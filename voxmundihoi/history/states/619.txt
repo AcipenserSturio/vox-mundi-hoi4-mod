@@ -6,6 +6,11 @@ state={
 	
 	state_category = town
 	
+	resources={
+		oil = 6
+		steel = 60
+	}
+
 	history={
 		owner = CLN
 		buildings = {
@@ -22,5 +27,6 @@ state={
 		691 695 3766 6710 6769 6782 9684 9724 9746 11641 11656 11669 11685 11714
 	}
 }
+
 
 

@@ -6,6 +6,10 @@ state={
 	
 	state_category = large_city
 	
+	resources={
+		chromium = 3
+	}
+
 	history={
 		owner = SEV
 		buildings = {
@@ -33,5 +37,6 @@ state={
 		1594 1635 4598 4641 7632 7660 10484
 	}
 }
+
 
 

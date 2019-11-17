@@ -6,6 +6,10 @@ state={
 	
 	state_category = town
 	
+	resources={
+		rubber = 2
+	}
+
 	history={
 		owner = DMT
 		buildings = {
@@ -22,5 +26,6 @@ state={
 		2176 2196 2281 5180 8144 8205 12911
 	}
 }
+
 
 

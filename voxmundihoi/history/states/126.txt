@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 
+	resources={
+		chromium = 25
+	}
+
 	history={
 		owner = DAC
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		784 3788 3876 6877 9811 9878 11860 11907
 	}
 }
+
 
 

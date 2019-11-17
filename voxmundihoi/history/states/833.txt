@@ -6,6 +6,13 @@ state={
 	
 	state_category = town
 	
+	resources={
+		aluminium = 10
+		tungsten = 4
+		chromium = 12
+		steel = 20
+	}
+
 	history={
 		owner = EES
 		buildings = {
@@ -22,5 +29,6 @@ state={
 		1591 1840 4224 4651 4773 4845 7706 7711 7795 10146 10408 10547 10660 12583 12640
 	}
 }
+
 
 

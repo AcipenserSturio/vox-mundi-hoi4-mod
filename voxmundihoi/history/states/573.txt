@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		oil = 9
+	}
+
 	history={
 		owner = TEJ
 		buildings = {
@@ -27,5 +31,6 @@ state={
 		1952 2083 4956 5015 5021 12721 13088
 	}
 }
+
 
 

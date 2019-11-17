@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		aluminium = 4
+	}
+
 	history={
 		owner = DBU
 		buildings = {
@@ -19,5 +23,6 @@ state={
 		1979 2198 5216 5232 8185 8254 10960 12965 
 	}
 }
+
 
 

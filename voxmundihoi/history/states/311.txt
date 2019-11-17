@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		oil = 19
+	}
+
 	history={
 		owner = OSS
 		buildings = {
@@ -21,5 +25,6 @@ state={
 		670 683 712 3672 6702 9628 11632
 	}
 }
+
 
 

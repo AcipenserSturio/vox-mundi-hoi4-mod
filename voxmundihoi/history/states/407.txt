@@ -6,6 +6,10 @@ state={
 	
 	state_category = wasteland
 	
+	resources={
+		oil = 3
+	}
+
 	history={
 		owner = GBG
 		buildings = {
@@ -21,5 +25,6 @@ state={
 		1955 4968 5058 7995 8085 10850 10923 12702 12749 12879
 	}
 }
+
 
 

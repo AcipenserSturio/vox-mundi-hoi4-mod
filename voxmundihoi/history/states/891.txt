@@ -6,6 +6,10 @@ state={
 	
 	state_category = large_town
 	
+	resources={
+		chromium = 7
+	}
+
 	history={
 		owner = EES
 		buildings = {
@@ -19,5 +23,6 @@ state={
 		232 313 340 367 396 471 3332 3389 3566 6317 6369 6428 6587 9245 9312 9367 9394 9422 11227 11296 11323 11351 11381 11436
 	}
 }
+
 
 

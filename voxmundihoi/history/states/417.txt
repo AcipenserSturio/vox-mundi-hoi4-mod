@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		oil = 28
+	}
+
 	history={
 		owner = GBG
 		buildings = {
@@ -23,5 +27,6 @@ state={
 		829 1922 2065 5005 5050 5098 5089 7953 10774 12773
 	}
 }
+
 
 

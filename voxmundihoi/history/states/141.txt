@@ -6,6 +6,11 @@ state={
 	
 	state_category = city
 	
+	resources={
+		aluminium = 7
+		oil = 8
+	}
+
 	history={
 		owner = DAC
 		victory_points = {
@@ -23,5 +28,6 @@ state={
 		458 488 489 504 525 550 3494 3543 11438 11454 11557
 	}
 }
+
 
 

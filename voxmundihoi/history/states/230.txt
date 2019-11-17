@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		steel = 3
+	}
+
 	history={
 		owner = LTH
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		7 82 120 132 158 195 3026 3073 3115 3149 3153 3156 6045 6081 6134 6212 9106 9233 11024 11041 11079 11081 11121 11132 13118
 	}
 }
+
 
 

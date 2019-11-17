@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 
+	resources={
+		steel = 4
+	}
+
 	history={
 		owner = VAL
 		victory_points = { 
@@ -30,5 +34,6 @@ state={
 		68 391 480 3211 3314 8622 9431 9498
 	}
 }
+
 
 

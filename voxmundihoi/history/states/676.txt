@@ -6,6 +6,10 @@ state={
 	
 	state_category = town
 	
+	resources={
+		tungsten = 3
+	}
+
 	history={
 		owner = SIS
 		buildings = {
@@ -21,5 +25,6 @@ state={
 		5064 5082 7916 7984 8090 10737 10789 12769 12831
 	}
 }
+
 
 

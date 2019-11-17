@@ -6,6 +6,11 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		oil = 12
+		tungsten = 17
+	}
+
 	history={
 		owner = GBG
 		buildings = {
@@ -18,5 +23,6 @@ state={
 		717 719 3698 3760 9663 11617 11647 11668 
 	}
 }
+
 
 

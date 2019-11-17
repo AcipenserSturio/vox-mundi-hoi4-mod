@@ -6,6 +6,13 @@ state={
 	
 	state_category = large_city
 
+	resources={
+		aluminium = 16
+		tungsten = 1
+		chromium = 2
+		steel = 24
+	}
+
 	history={
 		owner = FLE
 		victory_points = {
@@ -23,5 +30,6 @@ state={
 		607 611 776 3780 3782 6635 9584 11570
 	}
 }
+
 
 

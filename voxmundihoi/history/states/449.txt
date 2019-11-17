@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		tungsten = 4
+	}
+
 	history={
 		owner = SUI
 		buildings = {
@@ -24,5 +28,6 @@ state={
 		2197 2203 2211 4819 5195 7839 8204 8212 8232 8241 10650 12632 12966 12974 12980 12988
 	}
 }
+
 
 

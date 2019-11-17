@@ -6,6 +6,13 @@ state={
 	
 	state_category = city
 
+	resources={
+		aluminium = 30
+		tungsten = 10
+		chromium = 12
+		steel = 3
+	}
+
 	history={
 		owner = DAC
 		victory_points = {
@@ -23,5 +30,6 @@ state={
 		863 976 1109 3864 3973 3988 4109 6930 7211
 	}
 }
+
 
 

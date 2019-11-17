@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		steel = 7
+	}
+
 	history={
 		owner = JMT
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		211 242 299 329 363 3229 6148 9251 9329 9406 9410 11231 11280 11311 11390
 	}
 }
+
 
 

@@ -6,6 +6,11 @@ state={
 	
 	state_category = metropolis
 	
+	resources={
+		oil = 2
+		steel = 4
+	}
+
 	history={
 		owner = MRU
 		victory_points = {
@@ -23,5 +28,6 @@ state={
 		421 557 569 3414 3553 3569 3583 6562 6576 6590 11511
 	}
 }
+
 
 

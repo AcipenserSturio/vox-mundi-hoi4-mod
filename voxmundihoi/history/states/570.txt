@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		tungsten = 8
+	}
+
 	history={
 		owner = TEJ
 		buildings = {
@@ -23,5 +27,6 @@ state={
 		2051 5052 8003 10172 10853 12804 13089
 	}
 }
+
 
 

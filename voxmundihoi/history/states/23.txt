@@ -6,6 +6,11 @@ state={
 	
 	state_category = city
 
+	resources={
+		aluminium = 50
+		steel = 70
+	}
+
 	history={
 		owner = AKO
 		buildings = {
@@ -20,5 +25,6 @@ state={
 		752 760 755 3751 3946 6960 6962 9723 9853 11709 11718
 	}
 }
+
 
 

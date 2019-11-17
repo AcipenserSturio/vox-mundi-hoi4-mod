@@ -6,6 +6,11 @@ state={
 	
 	state_category = large_town
 	
+	resources={
+		aluminium = 15
+		chromium = 1
+	}
+
 	history={
 		owner = NRG
 		buildings = {
@@ -22,5 +27,6 @@ state={
 		53 137 3049 3129 3192 6176 9196 9296 11101 11176 11367
 	}
 }
+
 
 

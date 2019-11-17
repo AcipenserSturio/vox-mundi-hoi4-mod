@@ -6,6 +6,12 @@ state={
 	
 	state_category = metropolis
 	
+	resources={
+		tungsten = 15
+		chromium = 3
+		steel = 15
+	}
+
 	history={
 		owner = ZHE
 		buildings = {
@@ -23,5 +29,6 @@ state={
 		1078 1162 1202 4050 4165 4207 7067 7141 7182 9938 9978
 	}
 }
+
 
 

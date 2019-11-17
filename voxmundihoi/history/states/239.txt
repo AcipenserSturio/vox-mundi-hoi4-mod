@@ -6,6 +6,12 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		tungsten = 40
+		chromium = 25
+		steel = 50
+	}
+
 	history={
 		owner = JMT
 		buildings = {
@@ -18,5 +24,6 @@ state={
 		11 109 118 145 184 3044 3100 3113 3138 3173 6067 6132 6152 6161 6200 9093 9095 9134 9143 9220 11120 11026 11067 11069 11201
 	}
 }
+
 
 

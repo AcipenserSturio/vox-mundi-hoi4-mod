@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		chromium = 90
+	}
+
 	history={
 		owner = MKS
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		1237 4247 7390 12120
 	}
 }
+
 
 

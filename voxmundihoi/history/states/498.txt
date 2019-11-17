@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		tungsten = 2
+	}
+
 	history={
 		owner = CAJ
 		buildings = {
@@ -23,5 +27,6 @@ state={
 		2182 2210 2225 5202 12953 13086 13175
 	}
 }
+
 
 

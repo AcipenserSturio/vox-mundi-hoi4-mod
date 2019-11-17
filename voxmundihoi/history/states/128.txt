@@ -6,6 +6,10 @@ state={
 	
 	state_category = rural
 
+	resources={
+		chromium = 3
+	}
+
 	history={
 		owner = DAC
 		buildings = {
@@ -19,5 +23,6 @@ state={
 		7193 11984
 	}
 }
+
 
 

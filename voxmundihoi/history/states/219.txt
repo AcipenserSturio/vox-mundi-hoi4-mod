@@ -6,6 +6,10 @@ state={
 	
 	state_category = metropolis
 	
+	resources={
+		steel = 71
+	}
+
 	history={
 		owner = AGL
 		victory_points = {
@@ -30,5 +34,6 @@ state={
 		6268 6318 6335 6384 6399 9315 9379 9397
 	}
 }
+
 
 

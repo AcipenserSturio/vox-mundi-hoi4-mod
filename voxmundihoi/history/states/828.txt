@@ -6,6 +6,11 @@ state={
 	
 	state_category = wasteland
 	
+	resources={
+		aluminium = 2
+		chromium = 2
+	}
+
 	history={
 		owner = EES
 		buildings = {
@@ -18,5 +23,6 @@ state={
 		1703 1766 2015 4682 4828 5016 7790 7949 8042 8086 12119
 	}
 }
+
 
 

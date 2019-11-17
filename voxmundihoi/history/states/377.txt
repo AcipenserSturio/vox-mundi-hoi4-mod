@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		rubber = 5
+	}
+
 	history={
 		owner = AFR
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		1181 2154 4201 4941 6027 7161 10766 10858 12783 13176
 	}
 }
+
 
 

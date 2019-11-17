@@ -6,6 +6,11 @@ state={
 	
 	state_category = wasteland
 	
+	resources={
+		tungsten = 15
+		steel = 9
+	}
+
 	history={
 		owner = LTH
 		buildings = {
@@ -18,5 +23,6 @@ state={
 		22 44 64 76 91 128 2995 3016 3040 3058 3082 3145 6015 6079 6092 6107 6130 9042 9064 9089 9116 9128 9191 11034 11050 11063 11077 11090 11104 11157 11169
 	}
 }
+
 
 

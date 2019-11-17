@@ -6,6 +6,10 @@ state={
 	
 	state_category = rural
 	
+	resources={
+		rubber = 60
+	}
+
 	history={
 		owner = CEY
 		buildings = {
@@ -25,5 +29,6 @@ state={
 		1213 4219 7260 7344 10201 10229 10287 12258
 	}
 }
+
 
 

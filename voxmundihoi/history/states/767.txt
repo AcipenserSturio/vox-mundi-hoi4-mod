@@ -6,6 +6,11 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		rubber = 8
+		tungsten = 2
+	}
+
 	history={
 		owner = PAP
 		buildings = {
@@ -18,5 +23,6 @@ state={
 		1244 4433 7225 7292 10293 12224
 	}
 }
+
 
 

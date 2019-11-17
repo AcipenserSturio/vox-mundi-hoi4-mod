@@ -6,6 +6,10 @@ state={
 	
 	state_category = town
 	
+	resources={
+		oil = 1
+	}
+
 	history={
 		owner = NGR
 		buildings = {
@@ -22,5 +26,6 @@ state={
 		1633 4611 4624 7630 10482
 	}
 }
+
 
 

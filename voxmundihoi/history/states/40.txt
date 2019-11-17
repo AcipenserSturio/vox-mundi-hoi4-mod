@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 
+	resources={
+		steel = 8
+	}
+
 	history={
 		owner = CAS
 		victory_points = {
@@ -27,5 +31,6 @@ state={
 		747 875 950 1090 1176 1192 3871 4065 4095 4182 6744 7068 7153 7196 7198 9979 10009 10063 10111 11956 12038 12083
 	}
 }
+
 
 

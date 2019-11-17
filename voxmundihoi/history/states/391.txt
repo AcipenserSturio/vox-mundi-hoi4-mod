@@ -6,6 +6,11 @@ state={
 	
 	state_category = city
 	
+	resources={
+		chromium = 53
+		steel = 5
+	}
+
 	history={
 		owner = AGL
 		buildings = {
@@ -23,5 +28,6 @@ state={
 		1688 2171 2213 5106 5217 5231 10400 10566 12064 12648
 	}
 }
+
 
 

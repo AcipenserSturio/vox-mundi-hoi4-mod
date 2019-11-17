@@ -6,6 +6,10 @@ state={
 	
 	state_category = small_island
 	
+	resources={
+		oil = 35
+	}
+
 	history={
 		owner = VRI
 		buildings = {
@@ -19,5 +23,6 @@ state={
 		153
 	}
 }
+
 
 

@@ -6,6 +6,10 @@ state={
 	
 	state_category = town
 
+	resources={
+		steel = 30
+	}
+
 	history={
 		owner = AKO
 		victory_points = {
@@ -23,5 +27,6 @@ state={
 		595 625 629 6657 9597 11565 11582 11869
 	}
 }
+
 
 

@@ -6,6 +6,12 @@ state={
 	
 	state_category = city
 
+	resources={
+		tungsten = 3
+		chromium = 3
+		steel = 13
+	}
+
 	history={
 		owner = PRT
 		victory_points = { 
@@ -24,5 +30,6 @@ state={
 		425 538 6501 6524 9497
 	}
 }
+
 
 

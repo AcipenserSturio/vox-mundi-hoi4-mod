@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		tungsten = 1
+	}
+
 	history={
 		owner = MRU
 		victory_points = {
@@ -23,5 +27,6 @@ state={
 		541 3484 3537 3716 6561 9539 9692 11522 11539 11679
 	}
 }
+
 
 

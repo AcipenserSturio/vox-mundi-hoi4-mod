@@ -6,6 +6,11 @@ state={
 	
 	state_category = town
 
+	resources={
+		aluminium = 70
+		chromium = 20
+	}
+
 	history={
 		owner = DAC
 		buildings = {
@@ -20,5 +25,6 @@ state={
 		937 3922 3939 6913 9809 9821 11858
 	}
 }
+
 
 

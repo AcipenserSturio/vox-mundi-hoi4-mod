@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		tungsten = 19
+	}
+
 	history={
 		owner = VAL
 		buildings = {
@@ -23,5 +27,6 @@ state={
 		1349 1405 4353 4395 5063 7060 7232 10210 10311 10270 12182 12269
 	}
 }
+
 
 

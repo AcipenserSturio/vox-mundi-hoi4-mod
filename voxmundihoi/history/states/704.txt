@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		chromium = 6
+	}
+
 	history={
 		owner = VAL
 		buildings = {
@@ -23,5 +27,6 @@ state={
 		1275 1317 4280 4472 8087
 	}
 }
+
 
 

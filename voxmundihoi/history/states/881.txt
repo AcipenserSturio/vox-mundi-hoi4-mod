@@ -6,6 +6,10 @@ state={
 	
 	state_category = pastoral
 	
+	resources={
+		aluminium = 14
+	}
+
 	history={
 		owner = EES
 		buildings = {
@@ -18,5 +22,6 @@ state={
 		31 88 146 3363 6162 6274 6288 10200 11124 11170 11193
 	}
 }
+
 
 

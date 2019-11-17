@@ -6,6 +6,11 @@ state={
 	
 	state_category = metropolis
 	
+	resources={
+		chromium = 90
+		steel = 3
+	}
+
 	history={
 		owner = VRI
 		buildings = {
@@ -27,5 +32,6 @@ state={
 		1550 4476 4600 7451 7546 7590 7622 10374 10498 12347
 	}
 }
+
 
 

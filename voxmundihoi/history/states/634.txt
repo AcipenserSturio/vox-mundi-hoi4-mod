@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		steel = 110
+	}
+
 	history={
 		owner = VNL
 		buildings = {
@@ -22,5 +26,6 @@ state={
 		1719 1734 1866 4664 4807 6752 6767 6827 7896 9880 11667 12550 12588 12597 12693
 	}
 }
+
 
 

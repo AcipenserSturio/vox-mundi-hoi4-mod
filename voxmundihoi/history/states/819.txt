@@ -6,6 +6,10 @@ state={
 	
 	state_category = city
 	
+	resources={
+		steel = 14
+	}
+
 	history={
 		owner = EES
 		buildings = {
@@ -25,5 +29,6 @@ state={
 		1367 1395 1893 2030 2091 4141 4431 4925 5048 6999 7240 7256 7948 8026 10132 10144 10304 10822 11865 12141 12274 12767
 	}
 }
+
 
 

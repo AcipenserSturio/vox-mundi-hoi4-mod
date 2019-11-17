@@ -6,6 +6,10 @@ state={
 	
 	state_category = town
 	
+	resources={
+		steel = 33
+	}
+
 	history={
 		owner = GWR
 		victory_points = {
@@ -23,5 +27,6 @@ state={
 		418 501 522 3455 3520 6481 6543 9542 11397 11462 11526
 	}
 }
+
 
 
