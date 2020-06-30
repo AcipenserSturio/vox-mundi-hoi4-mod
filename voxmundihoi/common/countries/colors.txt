@@ -61,7 +61,7 @@ MRU = {
 	color_ui = rgb { 63 109 222 }
 }
 
-SUD = {
+KOL = {
 	color = rgb { 189 74 87 }
 	color_ui = rgb { 209 94 107 }
 }
@@ -197,7 +197,7 @@ TGR = {
 	color_ui = rgb { 208 255 189 }
 }
 
-NGR = {
+GND = {
 	color = rgb { 255 234 168 }
 	color_ui = rgb { 255 254 188 }
 }

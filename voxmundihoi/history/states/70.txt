@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = SUD
+		owner = KOL
 		victory_points = {
 			9517 5 
 		}
@@ -20,7 +20,7 @@ state={
 			industrial_complex = 1
 			arms_factory = 4
 		}
-		add_core_of = SUD
+		add_core_of = KOL
 	}
 	
 	provinces={

@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = NGR
+		owner = GND
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -24,7 +24,7 @@ state={
 		victory_points = {
 			12790 5 
 		}
-		add_core_of = NGR
+		add_core_of = GND
 	}
 	
 	provinces={

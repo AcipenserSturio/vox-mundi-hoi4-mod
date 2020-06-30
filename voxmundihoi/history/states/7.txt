@@ -24,7 +24,7 @@ state={
 			industrial_complex = 2
 		}
 		add_core_of = VAL
-		#add_core_of = SUD
+		#add_core_of = KOL
 	}
 	
 	provinces={
