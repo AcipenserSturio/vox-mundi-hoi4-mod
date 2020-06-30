@@ -1,8 +1,8 @@
 
 state={
-	id=557
-	name="STATE_557"
-	manpower = 695000
+	id=898
+	name="STATE_898"
+	manpower = 600000
 	
 	state_category = town
 	
@@ -11,12 +11,13 @@ state={
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
+			arms_factory = 1
 		}
 		add_core_of = SEV
 	}
 	
 	provinces={
-		1513 10440
+		4647 7245 10254
 	}
 }
 
